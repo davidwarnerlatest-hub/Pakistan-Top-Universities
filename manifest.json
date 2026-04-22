@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Pakistan Top Universities",
+  "version": "1.0.0",
+  "description": "Explore basic information about the top 25 universities in Pakistan.",
+  "action": {
+    "default_title": "Pakistan Top Universities",
+    "default_popup": "popup.html"
+  }
+}
