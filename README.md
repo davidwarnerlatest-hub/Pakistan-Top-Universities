@@ -1,6 +1,7 @@
 # Pakistan Top Universities - Chrome Extension
 
-A simple and modern Chrome Extension (Manifest V3) that displays basic information about the top 25 universities in Pakistan.
+A simple and modern Chrome Extension (Manifest V3) that displays basic information about the top <a href="https://studyvillas.com">universities in Pakistan</a>
+.
 
 ## Features
 
